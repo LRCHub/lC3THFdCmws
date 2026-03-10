@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Mr.Friday",
+  "base_artist": "LOLUET",
+  "createdAt": "2026-03-10T03:47:57.996757Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mr. Friday Feel Right",
+      "artist": "The Band Steele",
+      "has_synced": false,
+      "path": "select/01_Mr._Friday_Feel_Right_The_Band_Steele.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Mr Friday Night (feat. Sian Lee)",
+      "artist": "HVRR",
+      "has_synced": false,
+      "path": "select/02_Mr_Friday_Night_(feat._Sian_Lee)_HVRR.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Mr Friday Night",
+      "artist": "HVRR",
+      "has_synced": false,
+      "path": "select/03_Mr_Friday_Night_HVRR.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Mr.Friday",
+      "artist": "LOLUET",
+      "has_synced": false,
+      "path": "select/pl_01_Mr.Friday_LOLUET.txt"
+    }
+  ]
+}
